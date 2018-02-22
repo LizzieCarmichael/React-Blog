@@ -2,4 +2,8 @@ node_modules
 client/dist
 server/lib
 ENV_VAR
-client/src
+client/src/components/Admin.jsx
+client/src/components/BlogDelete.jsx
+client/src/components/Jumbo.jsx
+client/src/components/Navigation.jsx
+
